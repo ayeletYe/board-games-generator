@@ -7,7 +7,7 @@ The code is open for extension and closed for modification.
 I also build 3 different games and added to the platform:
 ***Four in a Row***
 ***TIC Tac Toe***
-and ***Avalon***
+and ***Reversi***
 every game is implemented a different logic but the 
 general structure of all games is the same.
 
